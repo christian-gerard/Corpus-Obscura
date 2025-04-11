@@ -4,4 +4,3 @@ __A deep study on topics in programming using a variety of languages with explan
                                                                         
 ### The whole purpose of this repo is to demistify esoteric and difficult topics
 
-
